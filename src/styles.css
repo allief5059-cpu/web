@@ -7,3 +7,5 @@
 .password-field{position:relative}.auth-card .password-field input{padding-right:58px}.password-toggle{position:absolute;right:9px;top:50%;transform:translateY(-50%);background:none;border:0;color:var(--green);font-size:9px;font-weight:700;cursor:pointer;padding:6px}
 
 .forgot-password{display:block;margin:-5px 0 13px auto;padding:4px 0;border:0;background:transparent;color:var(--green);font-size:10px;cursor:pointer}.forgot-password:hover{text-decoration:underline}.footer-right a{color:var(--green)}.footer-right a:hover{text-decoration:underline}
+
+.accounts-game-list{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 15px}.accounts-game-list button{border:1px solid var(--line);border-radius:999px;background:var(--panel);color:#c6cad3;padding:9px 14px;font-size:11px;cursor:pointer}.accounts-game-list button:hover,.accounts-game-list button.selected{border-color:var(--green);color:var(--green);background:#bcf36b12}
